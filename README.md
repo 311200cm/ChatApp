@@ -1,16 +1,10 @@
-# my_chat_app
+# chat app
 
-A new Flutter project.
+## home design:
 
-## Getting Started
+<img width="385" height="820" alt="2025-09-03" src="https://github.com/user-attachments/assets/a3020c91-baa1-4484-b277-fd3a1192b39f" />
 
-This project is a starting point for a Flutter application.
+## chat screen design:
 
-A few resources to get you started if this is your first Flutter project:
+<img width="377" height="798" alt="2025-09-03 (1)" src="https://github.com/user-attachments/assets/5aab1274-e64a-429a-83e2-021c9b30e20d" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
